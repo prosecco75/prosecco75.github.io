@@ -123,15 +123,14 @@ strong {
 
 /* =Titles */
 .page-title {
-    // margin-top:100px;
-    // margin-bottom:125px;
-    margin: 0px auto;
+    margin-bottom:125px;
     text-align: center;
 }
 
 .page-title__text {
     font-weight: bold;
     font-size: 90px;
+    margin: 0px auto;
     color: $white;
 }
 
