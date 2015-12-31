@@ -3,6 +3,10 @@ body {
     font-family: 'Inconsolata', ;
     color: $iron;
     background-color: $dorian;
+    background-image: url({{site.baseurl}}/assets/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 a {
