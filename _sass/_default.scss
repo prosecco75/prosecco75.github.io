@@ -87,8 +87,8 @@ strong {
 }
 
 .menu {
-    color: $cloudy;
-    font-size: 18px;
+    color: $white;
+    font-size: 40px;
     margin:0px;
     margin-top: 6px;
     padding: 0px;
@@ -128,13 +128,13 @@ strong {
 }
 
 .page-title__text {
-    font-weight: 700;
+    font-weight: bold;
     font-size: 90px;
     color: $white;
 }
 
 .page-title__subtitle {
-    font-weight: 400;
+    font-weight: bold;
     font-size: 30px;
     color: $black;
 }
