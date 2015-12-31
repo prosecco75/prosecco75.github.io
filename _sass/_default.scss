@@ -122,19 +122,20 @@ strong {
 
 /* =Titles */
 .page-title {
-    margin-top:100px;
+    // margin-top:100px;
     margin-bottom:125px;
     text-align: center;
 }
 
 .page-title__text {
     font-weight: 700;
-    font-size: 70px;
+    font-size: 90px;
+    color: $white;
 }
 
 .page-title__subtitle {
     font-weight: 400;
-    font-size: 22px;
+    font-size: 30px;
     color: $cloudy;
 }
 
