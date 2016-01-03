@@ -162,16 +162,16 @@ strong {
     border-style: groove;
     display: inline-block;
     width: 25%;
-    margin-left: 6%;
+    margin-right: 6%;
 }
 
 .project-name {
     text-align: center;
     font-size: 25px;
-    color: #B00000;
+    color: $white;
     font-weight: bold;
     padding: 5px 10px;
-    background-color: $white;
+    background-color: $red;
 }
 
 .project-picture {
