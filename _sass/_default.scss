@@ -130,18 +130,18 @@ strong {
     font-weight: bold;
     font-size: 90px;
     margin: 0px auto;
-    color: $white;
+    color: $red;
 }
 
 .page-title__subtitle {
     font-weight: bold;
     font-size: 35px;
-    color: $black;
-    text-shadow:
+    color: $white;
+/*    text-shadow:
        -1px -1px 3px $white,  
         1px -1px 3px $white,
         -1px 1px 3px $white,
-         1px 1px 3px $white;
+         1px 1px 3px $white; */
 }
 
 .project-entry {
