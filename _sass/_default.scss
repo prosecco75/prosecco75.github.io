@@ -143,6 +143,15 @@ strong {
     border-style: groove;
     display: inline-block;
 }
+
+.project-name {
+    font-size: 15px;
+    color: $white;
+    font-weight: bold;
+    margin: 5px 10px;
+    background-color: $black;
+}
+
 .post-title {
     margin-bottom: 110px;
 }
