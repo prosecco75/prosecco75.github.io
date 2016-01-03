@@ -175,11 +175,13 @@ strong {
     font-weight: bold;
     padding: 5px 10px;
     background-color: $red;
+    overflow: hidden;
 }
 
 .project-picture {
     width: 100%;
     height: auto;
+    overflow: hidden;
 }
 
 .post-title {
