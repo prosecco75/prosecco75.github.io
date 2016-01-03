@@ -159,7 +159,10 @@ strong {
 }
 
 .project-entry {
+    border: 1px solid;
+    border-radius: 5px;
     border-style: groove;
+    border-color: $white;
     display: inline-block;
     width: 25%;
     margin-right: 10px;
