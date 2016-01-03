@@ -145,16 +145,15 @@ strong {
 }
 
 .project-title {
-    margin-bottom:125px;
+    margin-top: 25px;
+    margin-bottom:100px;
     text-align: center;
     font-weight: bold;
     font-size: 70px;
-    margin: 0px auto;
     color: $red;
 }
 
 .projects {
-    margin-top: 125px;    
     margin-left: auto;
     margin-right: auto;
 }
@@ -163,6 +162,7 @@ strong {
     border-style: groove;
     display: inline-block;
     width: 25%;
+    margin-left: 6%;
 }
 
 .project-name {
