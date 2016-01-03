@@ -144,6 +144,15 @@ strong {
          1px 1px 3px $white; */
 }
 
+.project-title {
+    margin-bottom:125px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    margin: 0px auto;
+    color: $red;
+}
+
 .project-entry {
     border-style: groove;
     display: inline-block;
