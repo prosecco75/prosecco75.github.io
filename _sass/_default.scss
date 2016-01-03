@@ -138,10 +138,10 @@ strong {
     font-size: 35px;
     color: $black;
     text-shadow:
-       -1px -1px 0 $white,  
-        1px -1px 0 $white,
-        -1px 1px 0 $white,
-         1px 1px 0 $white;
+       -1px -1px 3px $cloudy,  
+        1px -1px 3px $cloudy,
+        -1px 1px 3px $cloudy,
+         1px 1px 3px $cloudy;
 }
 
 .project-entry {
