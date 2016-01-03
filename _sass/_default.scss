@@ -166,6 +166,7 @@ strong {
     width: 25%;
     margin-right: 10px;
     background-color: $white;
+    overflow: hidden;
 }
 
 .project-name {
@@ -175,13 +176,11 @@ strong {
     font-weight: bold;
     padding: 5px 10px;
     background-color: $red;
-    overflow: hidden;
 }
 
 .project-picture {
     width: 100%;
     height: auto;
-    overflow: hidden;
 }
 
 .post-title {
