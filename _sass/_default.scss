@@ -151,11 +151,12 @@ strong {
 }
 
 .project-name {
+    text-align: center;
     font-size: 25px;
-    color: $white;
+    color: #B00000;
     font-weight: bold;
     padding: 5px 10px;
-    background-color: $black;
+    background-color: $white;
 }
 
 .project-picture {
