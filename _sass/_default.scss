@@ -137,7 +137,11 @@ strong {
     font-weight: bold;
     font-size: 35px;
     color: $black;
-    -webkit-text-stroke: 1px $white;
+    text-shadow:
+       -1px -1px 0 $white,  
+        1px -1px 0 $white,
+        -1px 1px 0 $white,
+         1px 1px 0 $white;
 }
 
 .project-entry {
